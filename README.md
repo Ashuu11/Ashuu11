@@ -2,7 +2,7 @@
 ![Github Readme](https://user-images.githubusercontent.com/84927939/138715098-404a2650-1fb9-44b4-9dd3-40e78abe9f2a.png)
 
 <h1 align="center">Hi 👋, I'm Ashish Mohanty</h1>
-<h3 align="center">My name is Ashish Mohanty and I'm an aspiring Software Engineer passionate about new technologies. I am from Cuttack, Odisha currently studying at VIT, Bhopal, Madhya Pradesh</h3>
+<h3 align="center">My name is Ashish Mohanty and I'm an aspiring Software Engineer passionate about new technologies. I am from Cuttack, Odisha currently studying at Vellore Institute of Technology, Bhopal, Madhya Pradesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuu11&label=Profile%20views&color=0e75b6&style=flat" alt="ashuu11" /> </p>
 
