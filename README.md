@@ -9,7 +9,7 @@
 ## I'm an aspiring Full Stack Web Developer passionate about new technologies. I am from Cuttack, Odisha currently studying at Vellore Institute of Technology, Bhopal, Madhya Pradesh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 These days I'm working on different kinds of projects!
-- ⚡ I just want learn more about code 
+- ⚡ I just want to learn more about differeent technologies 
 - 👨‍💻 You can check my Portfolio at [https://ashishmohanty2019.wixsite.com/website](https://ashishmohanty2019.wixsite.com/website)
 - 🎯 2022 Goals: Web 3.0, Getting a good Job
 - 📫 How to reach me **ashmohanty11@gmail.com**
