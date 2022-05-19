@@ -3,10 +3,11 @@
 <!-- welcome message -->
 <h2>Hi , I'm Ashish Mohanty <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
+<img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="230">
 
 ## I'm an aspiring Full Stack Web Developer passionate about new technologies. I am from Cuttack, Odisha currently studying at Vellore Institute of Technology, Bhopal, Madhya Pradesh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="230">
+
 
 - 🔭 These days I'm working on different kinds of projects!
 - ⚡ I just want to learn more about differeent technologies 
