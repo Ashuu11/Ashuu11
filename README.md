@@ -11,7 +11,7 @@
 
 - 🔭 These days I'm working on different kinds of projects!
 - ⚡ I just want to learn more about differeent technologies 
-- 👨‍💻 You can check my Portfolio at [https://ashishmohanty2019.wixsite.com/website](https://ashishmohanty2019.wixsite.com/website)
+- 👨‍💻 You can check my Portfolio at [https://ashu-port-folio.vercel.app/](https://ashu-port-folio.vercel.app/)
 - 🎯 2022 Goals: Web 3.0, Getting a good Job
 - 📫 How to reach me **ashmohanty11@gmail.com**
 - ⚡ Fun Fact: I think I am funny XD🤣
