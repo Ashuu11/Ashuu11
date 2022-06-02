@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/84927939/138715098-404a2650-1fb9-44b4-9dd3-40e78abe9f2a.png)
 
 <!-- welcome message -->
-<h2>Hi , I'm Ashish Mohanty <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> </h2>
+<h2>Hi , I'm Ashish Mohanty <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 <img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="230">
 
