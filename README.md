@@ -9,8 +9,8 @@
 
 
 
-- 🔭 These days I'm working on different kinds of projects!
-- ⚡ I just want to learn more about differeent technologies 
+- 🔭 These days I'm working at Mad Street Den as a SDET
+- ⚡ I just want to learn more about different technologies 
 - 👨‍💻 You can check my Portfolio at [https://ashu-port-folio.vercel.app/](https://ashu-port-folio.vercel.app/)
 - 🎯 2024 Goals: Selenium, Getting a stable Job
 - 📫 How to reach me **ashmohanty11@gmail.com**
