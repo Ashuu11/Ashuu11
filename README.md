@@ -9,7 +9,7 @@
 
 
 
-- 🔭 These days I'm working at Mad Street Den as a SDET
+- 🔭 These days I'm working at Everstage as a QA Engineer I
 - ⚡ I just want to learn more about different technologies 
 - 👨‍💻 You can check my Portfolio at [https://ashu-port-folio.vercel.app/](https://ashu-port-folio.vercel.app/)
 - 🎯 2024 Goals: Selenium, Getting a stable Job
