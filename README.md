@@ -27,7 +27,7 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashmohanty11@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ashuu11/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ashmohanty11/profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___a__s__h__u_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ashu.jpeg/)
 
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> QA & Automation Stack
 
@@ -60,16 +60,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 🚀 Featured Project
-
-### Payout Parity Agent
-A standalone Playwright/Node.js tool that validates whether **Legacy Commissions** and **Fast Commissions** engines produce identical payout results for the same payees and periods.
-
-- Intercepts GraphQL `OriginalPayoutData` responses post-sync to capture commission data
-- Normalizes earned, deferred, and previous-deferred amounts into structured JSON snapshots
-- Tracks sync performance (Legacy vs. Fast runtime deltas)
-- Offline CLI (`compare-payout-parity.mjs`) flags amount mismatches, missing snapshots, and performance deltas
-- Generates HTML/JSON reports for engineers — replacing manual spreadsheet-based payout validation
 
 ## 📦 Past Projects
 
